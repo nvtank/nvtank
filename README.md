@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Tuan Anh from Da Nang <br>- 📚 I'm currently learning VKU <br>- ⚡ In my free time I make a Video and push this on the capcut</p>
+<p align="left">I'm Tuan Anh from Da Nang <br>- 📚 I'm currently learning VKU <br>- ⚡ hehehehehhehehehe
 
 ###
 </div>
