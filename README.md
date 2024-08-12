@@ -18,15 +18,15 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey cậu 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  tớ cao 2m</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Tuan Anh from Da Nang <br><br>- 🔭<br>- 📚 I'm currently learning VKU <br>- ⚡ In my free time I make a Video and push this on the capcut</p>
 
 ###
 
