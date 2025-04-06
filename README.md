@@ -13,10 +13,6 @@ Hi guyyyy, I am Tuấn Anh, I am studying at VKU
 
 ![snake gif](https://github.com/tuananh2005889/tuananh2005889/blob/output/github-snake-dark.svg)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tuananh2005889&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
