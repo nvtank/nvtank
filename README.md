@@ -1,5 +1,4 @@
-Hi guyyyy, I am Tuấn Anh, I am studying at VKU
-
+Hi guyyyy, I am Tuấn Anh, I am studying at VKU and I love you
 
 ## 🌐 Contact me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nvtank) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nvtankwork@gmail.com) 
