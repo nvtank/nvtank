@@ -1,4 +1,4 @@
-Hi guyyyy, I am Tuấn Anh, I am studying at VKU and I love you
+Hi guyyyy, I am Tuấn Anh, I am studying at VKU and I need a job huhuhuhuhu
 
 ![Profile views](https://komarev.com/ghpvc/?username=tuananh2005889&label=Profile%20views&color=0e75b6&style=flat)
 
