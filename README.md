@@ -15,7 +15,7 @@
 
 ```javascript
 const tuanAnh = {
-    about_me: "i need a girlfriend"
+    Hehe: "i need a girlfriend",
     role: "Full Stack Developer",
     school: "Vietnam-Korea University of Information and Communication Technology",
     location: "Da Nang 🇻🇳",
