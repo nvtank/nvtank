@@ -43,11 +43,6 @@ const tuanAnh = {
 </div>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nvtank&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvtank&layout=compact&theme=tokyonight&hide_border=true" height="165" />
