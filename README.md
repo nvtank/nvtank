@@ -20,7 +20,7 @@ const tuanAnh = {
     school: "Vietnam-Korea University of Information and Communication Technology",
     location: "Da Nang 🇻🇳",
     
-    tech: ["Java", "Spring Boot", "Android", "TypeScript", "React", "Python", "C++"],
+    tech: ["Java", "Spring Boot", "HTML/CSS", "React", "Python", "C++"],
     currentFocus: ["Web Development", "Backend Systems"],
 };
 ```
