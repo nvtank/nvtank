@@ -16,12 +16,8 @@
 ```javascript
 const tuanAnh = {
     Hehe: "I need a girlfriend",
-    role: "Full Stack Developer",
     school: "Vietnam-Korea University of Information and Communication Technology",
     location: "Da Nang 🇻🇳",
-    
-    tech: ["Java", "Spring Boot", "HTML/CSS", "React", "Python", "C++"],
-    currentFocus: ["Web Development", "Backend Systems"],
 };
 ```
 
