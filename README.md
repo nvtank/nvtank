@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 ```javascript
-const tuanAnh = {
+const TuanAnh = {
     Hehe: "I need a girlfriend hihi",
     school: "Vietnam-Korea University of Information and Communication Technology",
     location: "Da Nang 🇻🇳",
