@@ -16,7 +16,7 @@
 ```javascript
 const TuanAnh = {
     Hehe: "I need a girlfriend hihi",
-    Fact: "THICH NGHE NHAC CUA SIVAN CHAC VAY"
+    Fact: "THICH NGHE NHAC CUA SIVAN CHAC THE"
     School: "Vietnam-Korea University of Information and Communication Technology",
     location: "Da Nang 🇻🇳",
 };
