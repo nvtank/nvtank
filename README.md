@@ -15,7 +15,7 @@
 
 ```javascript
 const TuanAnh = {
-    Hehe: "TAP SONG AN",
+    Hehe: "Đang học tập rất chăm chỉ",
     Fact: "THICH NGHE NHAC CUA SIVAN CHAC THE"
     School: "Vietnam-Korea University of Information and Communication Technology",
     location: "Da Nang 🇻🇳",
