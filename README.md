@@ -15,7 +15,7 @@
 
 ```javascript
 const TuanAnh = {
-    Hehe: "HAPPY NEW YEAR 2026",
+    Hehe: "chuc may man",
     Fact: "THICH NGHE NHAC CUA SIVAN CHAC THE"
     School: "Vietnam-Korea University of Information and Communication Technology",
     location: "Da Nang 🇻🇳",
