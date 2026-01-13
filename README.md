@@ -15,7 +15,7 @@
 
 ```javascript
 const TuanAnh = {
-    Hehe: "chuc may man",
+    Hehe: "hihi",
     Fact: "THICH NGHE NHAC CUA SIVAN CHAC THE"
     School: "Vietnam-Korea University of Information and Communication Technology",
     location: "Da Nang 🇻🇳",
