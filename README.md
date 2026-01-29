@@ -12,8 +12,8 @@
 
 ```javascript
 const TuanAnh = {
-    Hehe: "Are working very hard",
-    Fact: "THICH NGHE NHAC CUA SIVAN CHAC THE"
+    State: "Currently researching emotion",
+    Fact: "Very worried about the future, afraid of unemployment."
     School: "Vietnam-Korea University of Information and Communication Technology",
     location: "Da Nang 🇻🇳",
 };
