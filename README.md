@@ -12,7 +12,7 @@
 
 ```javascript
 const TuanAnh = {
-    State: "Currently researching emotion",
+    State: "Happy new year 2026",
     Fact: "Very worried about the future, afraid of unemployment."
     School: "Vietnam-Korea University of Information and Communication Technology",
     location: "Da Nang, Viet Nam 🇻🇳",
