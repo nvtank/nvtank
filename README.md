@@ -12,10 +12,10 @@
 
 ```javascript
 const TuanAnh = {
-    State: "Happy new year 2026",
-    Fact: "Very worried about the future, afraid of unemployment."
-    School: "Vietnam-Korea University of Information and Communication Technology",
-    location: "Da Nang, Viet Nam 🇻🇳",
+    school: "Vietnam-Korea University of Information and Communication Technology (VKU)",
+    state: "3rd-year IT student building real-world AI and web systems",
+    futureGoal: "Become a versatile Software Engineer capable of building scalable systems from code to deployment.",
+    stack: ["Python", "TypeScript", "React", "Next.js", "Node.js", "PostgreSQL"]
 };
 ```
 
