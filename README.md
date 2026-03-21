@@ -15,7 +15,7 @@ const TuanAnh = {
     school: "Vietnam-Korea University of Information and Communication Technology (VKU)",
     state: "3rd-year IT student building real-world AI and web systems",
     futureGoal: "Become a versatile Software Engineer capable of building scalable systems from code to deployment.",
-    stack: ["Python", "TypeScript", "React", "Next.js", "Node.js", "PostgreSQL"]
+    stack: ["Python", "TypeScript", "React", "Next.js", "Node.js", "PostgreSQL", "CI/CD"]
 };
 ```
 
