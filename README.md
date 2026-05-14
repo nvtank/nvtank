@@ -22,7 +22,7 @@
 
 ```typescript
 const TuanAnh = {
-  nickname   : "tank 🐱",
+  nickname   : "tank not lgbt ok :))",
   school     : "Vietnam-Korea University (VKU) — Da Nang",
   year       : "3rd-year Software Engineering",
   focus      : ["AI Integrations", "Full-Stack Web", "CloudOps"],
