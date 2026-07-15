@@ -76,6 +76,7 @@ const TuanAnh = {
 
 ```
 🥇  Promising Award   — Grab the Beyond (Grab, National Level)        2025
+🥇  1rd Prize         — Hackathon xbrain                              2026
 🥈  3rd Prize         — Super Best Web Design (VKU)                   2025
 🥈  3rd Prize         — Best Web Design (VKU)                         2024
 🥈  3rd Prize         — ICT community innovation hackathon            2026
