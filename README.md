@@ -78,10 +78,11 @@ const TuanAnh = {
 🥇  Promising Award   — Grab the Beyond (Grab, National Level)        2025
 🥈  3rd Prize         — Super Best Web Design (VKU)                   2025
 🥈  3rd Prize         — Best Web Design (VKU)                         2024
+🥈  3rd Prize         — ICT community innovation hackathon            2026
 🎖️  Certificate       — Excellent Youth Union Contributions (VKU)     2025
 🎓  Certificates      — Outstanding results in intl/national exams    2024–2025
 🏛️  Executive Member  — Science Faculty Union, VKU                    2023–2025
-👑  Vice Head         — VKU Skills Club                               2024–Present
+👑  Vice Head         — VKU Skills Club                               2024–2025
 ```
 
 ---
