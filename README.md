@@ -80,6 +80,7 @@ const TuanAnh = {
 🥈  3rd Prize         — Super Best Web Design (VKU)                   2025
 🥈  3rd Prize         — Best Web Design (VKU)                         2024
 🥈  3rd Prize         — ICT community innovation hackathon            2026
+🎖️  4rd Prize         — ETC (English competion competion)             2024
 👑  Vice Head         — VKU Skills Club                               2024–2025
 ```
 
