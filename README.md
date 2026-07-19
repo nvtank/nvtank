@@ -13,24 +13,16 @@
 <p align="center">
   <picture>
     <source
-      media="(max-width: 760px) and (prefers-color-scheme: dark)"
-      srcset="./assets/hero/agent-console-mobile-dark.svg?v=4"
-    >
-    <source
-      media="(max-width: 760px)"
-      srcset="./assets/hero/agent-console-mobile-light.svg?v=4"
-    >
-    <source
       media="(prefers-color-scheme: dark)"
-      srcset="./assets/hero/agent-console-dark.svg?v=4"
+      srcset="./assets/hero/agent-console-dark.svg?v=9"
     >
     <source
       media="(prefers-color-scheme: light)"
-      srcset="./assets/hero/agent-console-light.svg?v=4"
+      srcset="./assets/hero/agent-console-light.svg?v=9"
     >
     <img
-      src="./assets/hero/agent-console-light.svg?v=4"
-      alt="Nguyen Van Tuan Anh — Student and DevOps Engineer"
+      src="./assets/hero/agent-console-light.svg?v=9"
+      alt="Nguyen Van Tuan Anh — CloudOps, DevOps and Full-Stack"
       width="100%"
     >
   </picture>
