@@ -1,39 +1,51 @@
+Library
+/README.md
+
+<!-- =========================================================
+  NGUYEN VAN TUAN ANH — GITHUB PROFILE README
+========================================================= -->
+
+<p align="center">
+  <picture>
+    <source
+      media="(max-width: 760px) and (prefers-color-scheme: dark)"
+      srcset="./assets/hero/agent-console-mobile-dark.svg?v=4"
+    >
+    <source
+      media="(max-width: 760px)"
+      srcset="./assets/hero/agent-console-mobile-light.svg?v=4"
+    >
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/hero/agent-console-dark.svg?v=4"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/hero/agent-console-light.svg?v=4"
+    >
+    <img
+      src="./assets/hero/agent-console-light.svg?v=4"
+      alt="Nguyen Van Tuan Anh — Student and DevOps Engineer"
+      width="100%"
+    >
+  </picture>
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=1200&lines=Hi+there+I'm+tank" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nguyen+Van+Tuan+Anh;DevOps+%2F+Full-Stack+%2F+CloudOps"
+    alt="Typing introduction"
+  >
 </div>
+
+
 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 </div>
 
-<br/>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="900" />
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```typescript
-const TuanAnh = {
-  nickname   : "tank not lgbt ok :))",
-  school     : "Vietnam-Korea University (VKU) — Da Nang",
-  year       : "3rd-year Software Engineering",
-  focus      : ["AI Integrations", "Full-Stack Web", "CloudOps"],
-};
-```
-
----
-
 ## 🛠️ Tech Stack
-
-
 
 **Languages**
 
