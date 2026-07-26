@@ -109,7 +109,7 @@
 [![Email](https://img.shields.io/badge/Email-nvtankwork@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nvtankwork@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tuan%20Anh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nvtankk)
 [![GitHub](https://img.shields.io/badge/GitHub-nvtank-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nvtank)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-nvtank.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nvtank.dev)
 </div>
 
 ---
