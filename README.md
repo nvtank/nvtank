@@ -72,8 +72,6 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
