@@ -71,17 +71,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-## 🏆 Awards & Organizations
-
-```
-🥇  Promising Award   — Grab the Beyond (Grab, National Level)        2025
-🥇  1rd Prize         — Hackathon xbrain                              2026
-🥈  3rd Prize         — Super Best Web Design (VKU)                   2025
-🥈  3rd Prize         — Best Web Design (VKU)                         2024
-🥈  3rd Prize         — ICT community innovation hackathon            2026
-🎖️  4rd Prize         — ETC (English competion competion)             2024
-👑  Vice Head         — VKU Skills Club                               2024–2025
-```
 
 ---
 
