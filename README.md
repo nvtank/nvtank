@@ -83,10 +83,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvtank&theme=tokyonight&hide_border=true&background=0d1117&ring=00D8FF&fire=7928CA&currStreakLabel=00D8FF" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nvtank&bg_color=0d1117&color=00D8FF&line=7928CA&point=ffffff&hide_border=true" />
-</div>
-
 ---
 
 ## 📬 Connect with Me
