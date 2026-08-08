@@ -7,7 +7,7 @@
 </div>
 
 <!-- =========================================================
-  NGUYEN VAN TUAN ANH — GITHUB PROFILE README
+  NGUYEN VAN TUAN ANH 
 ========================================================= -->
 
 <p align="center">
